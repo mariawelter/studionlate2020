@@ -1,0 +1,27 @@
+{
+  "name": "studion",
+  "version": "0.0.1",
+  "description": "Home page  for event - Frontend Studie.",
+  "main": "\u001b[A\u001b[\u001b[C\u001b[\u001b[B src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariawelter/studionlate2020.git"
+  },
+  "keywords": [
+    "HTML",
+    "CSS",
+    "Javascript"
+  ],
+  "author": "Maria Welter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariawelter/studionlate2020/issues"
+  },
+  "homepage": "https://github.com/mariawelter/studionlate2020#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
